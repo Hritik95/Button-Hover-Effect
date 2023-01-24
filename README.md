@@ -8,7 +8,6 @@ Using different component of css hover effect done on 5 different buttons.
 
  - HTML
  - CSS
- - Javascript
 
 ## Tools Used
 
